@@ -1,3 +1,2 @@
-# mimi
-cat thing
+# cat thing
 给八哥画了自画像
